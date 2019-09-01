@@ -1,4 +1,6 @@
-# no problem spec, see convert BST to greater tree
+# a modified version of
+# https://leetcode.com/problems/convert-bst-to-greater-tree/
+# where we don't assume the tree is a BST
 
 # Definition for a binary tree node.
 # class TreeNode(object):
